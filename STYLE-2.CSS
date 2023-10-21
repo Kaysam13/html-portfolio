@@ -1,0 +1,31 @@
+*{
+  text-align: center;
+}
+.color-title {
+  color: white;
+}
+html {
+  background-color: black;
+}
+img {
+  height: 200px;
+  width: 400px;
+}
+#red {
+  color: red;
+}
+#blue {
+  color: blue;
+}
+#orange {
+  color: orange;
+}
+#green {
+  color: green;
+}
+#yellow {
+  color: yellow;
+}
+.B {
+  background-color: white;
+}
